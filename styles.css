@@ -1,5 +1,4 @@
 /* added color to 3rd child   */
-
 .third li:nth-child(3) {
     background-color: blue;
 }
